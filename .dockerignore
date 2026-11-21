@@ -1,6 +1,5 @@
 .git
 Dockerfile
-deploy/
 *.md
 probe.html
 screener.html
