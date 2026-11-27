@@ -1,0 +1,27 @@
+{
+  "name": "Pianot — Spela kända låtar med Kotten",
+  "short_name": "Pianot",
+  "description": "Pianot: Spela kända låtar med Kotten. Spel för barn 4–7 år.",
+  "lang": "sv",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fdf3e7",
+  "theme_color": "#fdf3e7",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
